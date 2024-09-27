@@ -36,7 +36,3 @@ Para criar a tabela e realizar as operações, você pode executar o script SQL 
 
 - Oracle SQL Developer instalado.
 - Acesso a um banco de dados Oracle onde você possa criar a tabela e executar consultas.
-
-### Contribuições
-
-Contribuições são bem-vindas! Se você tiver melhorias, correções ou novas funcionalidades para adicionar, sinta-se à vontade para abrir um pull request.
